@@ -1,0 +1,6 @@
+a = input("Masukkan string : ")
+    if type(a) == int_a:
+        b = int("1")+int("2")+int("3")+...
+    elif type(a) == string_a:
+        b = (str("a1")+"b1")+(str("a2")+"b2")+(str("a3")+"b3")+...
+print(b)

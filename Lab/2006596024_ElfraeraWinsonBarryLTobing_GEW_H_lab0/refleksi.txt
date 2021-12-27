@@ -1,0 +1,10 @@
+1. Hal baru yang aku pelajari melalui lab ini adalah:
+   a. Kode input("Masukkan data string:") untuk memasukkan data string (nonangka/teks)
+   b. Kode import random untuk memakai/memanggil module/ kode terpisah yang dibuat python
+   c. Kode random.random() untuk menghasilkan bilangan desimal random dari 0.0 sampai 1.0
+   d. Kode if, elif, else untuk menentukan keluaran/hasil akhir dari proses yang diinput
+2. Hal yang masih aku sulit pahami adalah cara memasukkan data berupa angka. 
+   Saya sudah memahami memasukkan data berupa teks melalui pembelajaran lab ini.
+   Tetapi saya yakin, hal tersebut tidak sesulit yang saya pikirkan dan saya akan terus berlatih supaya kesulitanku terselesaikan.
+3. Alokasi waktu aku untuk mempelajari materi + lab minggu ini adalah sekitar 1 jam 30 menitan. Satu jam untuk mempelajari teorinya
+   dan 30 menit untuk mempelajari labnya (praktek).
